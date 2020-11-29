@@ -1,2 +1,7 @@
+numpy
+pandas
+sklearn
 dowhy
+econml
+matplotlib
 plotnine
